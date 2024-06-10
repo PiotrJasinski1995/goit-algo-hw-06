@@ -46,11 +46,9 @@ graph = {
     'H': ['F', 'G'],
 }
 
-
 # Calling the DFS function
 print('Path from DFS algorithm:')
 dfs_recursive(graph, 'A')
-
 
 # Run the recursive BFS algorithm
 print('\n\nPath from BFS algorithm:')

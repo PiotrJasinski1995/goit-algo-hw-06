@@ -3,16 +3,14 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 
-
-############# Task 1 #############
 ''' 
-A - Dzierzoniow
-B - Kolaczow
-C - Niemcza
-D - Jordanow
-E - Cieszyce
-F - Kobierzyce
-G - Bielany_Wroclawskie
+A - Dzierzoniow,
+B - Kolaczow,
+C - Niemcza,
+D - Jordanow,
+E - Cieszyce,
+F - Kobierzyce,
+G - Bielany_Wroclawskie,
 H - Wroclaw
 '''
 
